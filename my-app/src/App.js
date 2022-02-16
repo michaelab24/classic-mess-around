@@ -13,11 +13,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://en.wikipedia.org/wiki/Reefer_Madness"
+          href="https://www.google.com/search?q=ui+frameworks+for+react&oq=frameworks+for+react+&aqs=chrome.4.69i57j0i512l2j0i22i30l7.14380j0j4&sourceid=chrome&ie=UTF-8"
           target="_blank"
           rel="noopener noreferrer"
         >
-          do it again bitch 
+          commit
         </a>
       </header>
     </div>
