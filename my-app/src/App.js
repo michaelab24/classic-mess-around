@@ -9,11 +9,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          get your ass in gear
+          struggle city usa population me 
         </p>
         <a
           className="App-link"
-          href="https://www.google.com/search?q=ui+frameworks+for+react&oq=frameworks+for+react+&aqs=chrome.4.69i57j0i512l2j0i22i30l7.14380j0j4&sourceid=chrome&ie=UTF-8"
+          href="https://mui.com/getting-started/installation/"
           target="_blank"
           rel="noopener noreferrer"
         >
