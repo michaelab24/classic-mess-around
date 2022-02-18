@@ -6,6 +6,17 @@
   height: 40vmin;
   pointer-events: none;
 }
+/* 
+.Bird-Logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .Bird-logo {
+    animation: Bird-logo-spin infinite 20s linear;
+  }
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
