@@ -19,7 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          commit
+          git add . git commit git push 
         </a>
       </header>
     </div>
