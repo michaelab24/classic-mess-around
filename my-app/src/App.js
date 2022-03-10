@@ -15,11 +15,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://mui.com/getting-started/installation/"
+          href="https://leetcode.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          git add . git commit git push 
+          leet code 
         </a>
       </header>
     </div>
