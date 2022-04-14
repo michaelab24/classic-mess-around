@@ -1,18 +1,19 @@
-import react from 'react';
+// import react from 'react';
+// import PageUno from './PageUno';
 
-class HelloMessage extends React.Component {
-    render() {
-      return (
-        <div>
-          Hello {this.props.name}
-        </div>
-      );
-    }
-  }
+// class HelloMessage extends React.Component {
+//     render() {
+//       return (
+//         <div>
+//           Hello {this.props.name}
+//         </div>
+//       );
+//     }
+//   }
   
-  ReactDOM.render(
-    <HelloMessage name="Taylor" />,
-    document.getElementById('hello-example')
-  );
+//   ReactDOM.render(
+//     <HelloMessage name="Taylor" />,
+//     document.getElementById('hello-example')
+//   );
 
-  export default PageUno;
+//   export default PageUno;
