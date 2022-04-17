@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Uno {
+  background-color: rgb(255, 0, 0)
+}
+
+.One {
+  font-family: 'Droid Sans';
+  font-weight: bold;
+  font-size: 1.5em;
+}
