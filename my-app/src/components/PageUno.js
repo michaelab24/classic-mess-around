@@ -9,6 +9,12 @@ export default function PageUno() {
           Bold Strategy
         </p>
       </header>
+      <main className="Main">
+        <p>
+          Did you try setting it to Wombo? 
+          Let's Go BLUES!
+        </p>
+      </main>
    
     </div>
   )

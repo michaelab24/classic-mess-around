@@ -13,11 +13,16 @@ code {
 }
 
 .Uno {
-  background-color: rgb(255, 0, 0)
+  background-color: rgb(17, 17, 182)
 }
 
 .One {
   font-family: 'Droid Sans';
   font-weight: bold;
   font-size: 1.5em;
+}
+
+.Main{
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 // import logo from './logo.svg';
-import birds from './birds.jpg';
+// import birds from './birds.jpg';
 import PageUno from './components/PageUno';
 // import '../assets/front'
 import './App.css';
@@ -10,7 +10,7 @@ function App() {
 
     <div>
       <PageUno></PageUno>
-      <img src={birds} className="App-Logo" alt="logo" />
+      {/* <img src={birds} className="App-Logo" alt="logo" /> */}
 
     </div>
     // <div className="App">
