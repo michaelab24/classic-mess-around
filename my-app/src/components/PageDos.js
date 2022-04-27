@@ -12,7 +12,7 @@ export default function PageDos() {
       </header>
       <main className="MainTwo">
         <p> 
-          Let's Go BLUES!
+          Let's Go BLUES! 🤘
         </p>
       </main>
    

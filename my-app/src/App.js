@@ -1,6 +1,8 @@
 import React from 'react';
 // import logo from './logo.svg';
 // import birds from './birds.jpg';
+import "bootstrap/dist/css/bootstrap.min.css";
+import Navbar from "./components/Nav";
 import PageUno from './components/PageUno';
 import PageDos from './components/PageDos'
 // import '../assets/front'
@@ -8,8 +10,8 @@ import './App.css';
 
 function App() {
   return (
-
     <div>
+      <Navbar />
       <PageUno></PageUno>
       <PageDos></PageDos>
       {/* <img src={birds} className="App-Logo" alt="logo" /> */}
