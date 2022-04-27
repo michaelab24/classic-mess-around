@@ -6,7 +6,8 @@ export default function PageDos() {
     <div className="Dos">
       <header className="DosHeader">
         <p className="Two">
-          this is page2 
+          back to normal?
+        
         </p>
       </header>
       <main className="MainTwo">
