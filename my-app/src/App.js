@@ -3,6 +3,7 @@ import React from 'react';
 import birds from './birds.jpg';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./components/Nav";
+import Projects from "./components/Projects";
 import PageUno from './components/PageUno';
 import PageDos from './components/PageDos'
 // import '../assets/front'
@@ -14,6 +15,7 @@ function App() {
       <Navbar />
       <PageUno></PageUno>
       <PageDos></PageDos>
+      <Projects></Projects>
       <div className="Pic">
       <img src={birds} className="App-Logo" alt="logo" />
       </div>
