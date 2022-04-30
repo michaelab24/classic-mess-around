@@ -16,9 +16,9 @@ function App() {
       <PageUno></PageUno>
       <PageDos></PageDos>
       <Projects></Projects>
-      <div className="Pic">
+      {/* <div className="Pic">
       <img src={birds} className="App-Logo" alt="logo" />
-      </div>
+      </div> */}
     </div>
     // <div className="App">
     //   <header className="App-header">
