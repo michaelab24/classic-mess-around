@@ -1,6 +1,6 @@
 import React from 'react';
 // import logo from './logo.svg';
-// import birds from './birds.jpg';
+import birds from './birds.jpg';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./components/Nav";
 import PageUno from './components/PageUno';
@@ -14,7 +14,9 @@ function App() {
       <Navbar />
       <PageUno></PageUno>
       <PageDos></PageDos>
-      {/* <img src={birds} className="App-Logo" alt="logo" /> */}
+      <div className="Pic">
+      <img src={birds} className="App-Logo" alt="logo" />
+      </div>
     </div>
     // <div className="App">
     //   <header className="App-header">
